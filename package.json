@@ -1,0 +1,12 @@
+{
+    "name":"contactlistapp",
+    "version": "0.0.0",
+    "deecription":"This is a contact list application",
+    "dependencies":{
+        "express" :"*",
+        "async":"*",
+        "body-parser":"*"
+    }
+    
+   
+}
